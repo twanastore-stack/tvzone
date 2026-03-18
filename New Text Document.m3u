@@ -1,0 +1,976 @@
+"#EXTM3U
+#EXTINF:0 CUID="48085" tvg-name="KU : RUDAW  HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KU : RUDAW  HD
+
+#EXTINF:0 CUID="48086" tvg-name="KU : ROJAVA 4K" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KU : ROJAVA 4K
+
+#EXTINF:0 CUID="48087" tvg-name="KU : ROJAVA HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KU : ROJAVA HD
+
+#EXTINF:0 CUID="48088" tvg-name="KU : RONAHI 4K" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KU : RONAHI 4K
+
+#EXTINF:0 CUID="48089" tvg-name="KU : K24 HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KU : K24 HD
+
+#EXTINF:0 CUID="48091" tvg-name="Ku: NRT 1 4K" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: NRT 1 4K
+
+#EXTINF:0 CUID="48092" tvg-name="Ku: NRT2 4K" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: NRT2 4K
+
+#EXTINF:0 CUID="48094" tvg-name="Ku: NRT 4 HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: NRT 4 HD
+
+#EXTINF:0 CUID="48095" tvg-name="Ku: Kurdsat 4K" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Kurdsat 4K
+
+#EXTINF:0 CUID="48096" tvg-name="Ku: KurdMax Sor 4K" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: KurdMax Sor 4K
+
+#EXTINF:0 CUID="48097" tvg-name="Ku: KurdMax Show Sor 4K" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: KurdMax Show Sor 4K
+
+#EXTINF:0 CUID="48098" tvg-name="Ku: KurdMax Show Kurmanji HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: KurdMax Show Kurmanji HD
+
+#EXTINF:0 CUID="48099" tvg-name="Ku: Kurd Channel 4k" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Kurd Channel 4k
+
+#EXTINF:0 CUID="48100" tvg-name="Ku: NRT 1 HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: NRT 1 HD
+
+#EXTINF:0 CUID="48101" tvg-name="Ku: Kurdsat News HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Kurdsat News HD
+
+#EXTINF:0 CUID="48102" tvg-name="Ku: Gali Kurdistan TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Gali Kurdistan TV
+
+#EXTINF:0 CUID="48103" tvg-name="Ku: Zagros TV HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Zagros TV HD
+
+#EXTINF:0 CUID="48105" tvg-name="Ku: Waar TV HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Waar TV HD
+
+#EXTINF:0 CUID="48106" tvg-name="Ku: Payam TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Payam TV
+
+#EXTINF:0 CUID="48107" tvg-name="Ku: AVA Entertainment" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: AVA Entertainment
+
+#EXTINF:0 CUID="48108" tvg-name="Ku: NRT 2 HD Sorani" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: NRT 2 HD Sorani
+
+#EXTINF:0 CUID="48110" tvg-name="Ku: Amozhgary TV HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Amozhgary TV HD
+
+#EXTINF:0 CUID="48111" tvg-name="Ku: Med Music TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Med Music TV
+
+#EXTINF:0 CUID="48112" tvg-name="Ku: Aryen TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Aryen TV
+
+#EXTINF:0 CUID="48113" tvg-name="Ku: Jin HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Jin HD
+
+#EXTINF:0 CUID="48114" tvg-name="Ku: Neu TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Neu TV
+
+#EXTINF:0 CUID="48115" tvg-name="NRT UHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NRT UHD
+
+#EXTINF:0 CUID="48116" tvg-name="Rojava" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Rojava
+
+#EXTINF:0 CUID="48117" tvg-name="Channel 8 UHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Channel 8 UHD
+
+#EXTINF:0 CUID="48121" tvg-name="TRT KURDI" tvg-logo="" group-title="|KU|KURDISTAN  كردي",TRT KURDI
+
+#EXTINF:0 CUID="48122" tvg-name="4KURD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",4KURD
+
+#EXTINF:0 CUID="48124" tvg-name="PAYAM TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",PAYAM TV
+
+#EXTINF:0 CUID="48125" tvg-name="AVA TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AVA TV
+
+#EXTINF:0 CUID="48127" tvg-name="KURDMAX FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDMAX FHD
+
+#EXTINF:0 CUID="48130" tvg-name="A TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",A TV
+
+#EXTINF:0 CUID="48131" tvg-name="K24 DOCUMENTARY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",K24 DOCUMENTARY
+
+#EXTINF:0 CUID="48132" tvg-name="SADA TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SADA TV
+
+#EXTINF:0 CUID="48133" tvg-name="BANGAWAZ ۞" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BANGAWAZ ۞
+
+#EXTINF:0 CUID="48134" tvg-name="NRT 2" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NRT 2
+
+#EXTINF:0 CUID="48135" tvg-name="AMOZHGARY ۞" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AMOZHGARY ۞
+
+#EXTINF:0 CUID="48137" tvg-name="JIN TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",JIN TV
+
+#EXTINF:0 CUID="48138" tvg-name="EURO KURD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",EURO KURD
+
+#EXTINF:0 CUID="48139" tvg-name="RENG TV FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RENG TV FHD
+
+#EXTINF:0 CUID="48141" tvg-name="SPEDA DRAMA FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SPEDA DRAMA FHD
+
+#EXTINF:0 CUID="48142" tvg-name="NAQSHI MEDIA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NAQSHI MEDIA
+
+#EXTINF:0 CUID="48143" tvg-name="RED TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RED TV
+
+#EXTINF:0 CUID="48144" tvg-name="SPI TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SPI TV
+
+#EXTINF:0 CUID="48145" tvg-name="WALLA TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",WALLA TV
+
+#EXTINF:0 CUID="48146" tvg-name="KURDMAX SHOW سۆرانی" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDMAX SHOW سۆرانی
+
+#EXTINF:0 CUID="48147" tvg-name="KURDMAX SHOW" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDMAX SHOW
+
+#EXTINF:0 CUID="48148" tvg-name="ARO FAMILY FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ARO FAMILY FHD
+
+#EXTINF:0 CUID="48149" tvg-name="NIGA FAMILY FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NIGA FAMILY FHD
+
+#EXTINF:0 CUID="48150" tvg-name="MIX KURD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MIX KURD
+
+#EXTINF:0 CUID="48151" tvg-name="FARMUDA ۞" tvg-logo="" group-title="|KU|KURDISTAN  كردي",FARMUDA ۞
+
+#EXTINF:0 CUID="48153" tvg-name="AFRIN TV FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AFRIN TV FHD
+
+#EXTINF:0 CUID="48154" tvg-name="REHBER TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",REHBER TV
+
+#EXTINF:0 CUID="48156" tvg-name="ATV2" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ATV2
+
+#EXTINF:0 CUID="48157" tvg-name="ATV KURD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ATV KURD
+
+#EXTINF:0 CUID="48158" tvg-name="AVAR TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AVAR TV
+
+#EXTINF:0 CUID="48159" tvg-name="AMED TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AMED TV
+
+#EXTINF:0 CUID="48160" tvg-name="ARYAN TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ARYAN TV
+
+#EXTINF:0 CUID="48161" tvg-name="BEFRIN TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BEFRIN TV
+
+#EXTINF:0 CUID="48162" tvg-name="BANGXWAZ BADINAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BANGXWAZ BADINAN
+
+#EXTINF:0 CUID="48163" tvg-name="DUHOK PARWARDA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DUHOK PARWARDA
+
+#EXTINF:0 CUID="48164" tvg-name="YENI KANAL" group-title="|KU|KURDISTAN  كردي",YENI KANAL
+
+#EXTINF:0 CUID="48165" tvg-name="DEVER TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DEVER TV
+
+#EXTINF:0 CUID="48166" tvg-name="CIRA TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",CIRA TV
+
+#EXTINF:0 CUID="48167" tvg-name="DENGE ZELAL" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DENGE ZELAL
+
+#EXTINF:0 CUID="48168" tvg-name="DUHOK TV FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DUHOK TV FHD
+
+#EXTINF:0 CUID="48169" tvg-name="DUHOK TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DUHOK TV
+
+#EXTINF:0 CUID="48171" tvg-name="DELAL TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DELAL TV
+
+#EXTINF:0 CUID="48172" tvg-name="DASNYA FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DASNYA FHD
+
+#EXTINF:0 CUID="48173" tvg-name="UTV DUHOK HD" group-title="|KU|KURDISTAN  كردي",UTV DUHOK HD
+
+#EXTINF:0 CUID="48176" tvg-name="DASNYA MUSIC" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DASNYA MUSIC
+
+#EXTINF:0 CUID="48178" tvg-name="EZAN TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",EZAN TV
+
+#EXTINF:0 CUID="48179" tvg-name="EURO-KURD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",EURO-KURD
+
+#EXTINF:0 CUID="48180" tvg-name="GARYAN FM" tvg-logo="" group-title="|KU|KURDISTAN  كردي",GARYAN FM
+
+#EXTINF:0 CUID="48181" tvg-name="GEWHER TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",GEWHER TV
+
+#EXTINF:0 CUID="48182" tvg-name="HORMIZAIR" tvg-logo="" group-title="|KU|KURDISTAN  كردي",HORMIZAIR
+
+#EXTINF:0 CUID="48183" tvg-name="HELHELOK" tvg-logo="" group-title="|KU|KURDISTAN  كردي",HELHELOK
+
+#EXTINF:0 CUID="48184" tvg-name="ISHTAE" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ISHTAE
+
+#EXTINF:0 CUID="48185" tvg-name="KURTCE" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURTCE
+
+#EXTINF:0 CUID="48186" tvg-name="Peshmarga" group-title="|KU|KURDISTAN  كردي",Peshmarga
+
+#EXTINF:0 CUID="48187" tvg-name="KURD 7" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURD 7
+
+#EXTINF:0 CUID="48188" tvg-name="KURDMAX PEPULE" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDMAX PEPULE
+
+#EXTINF:0 CUID="48189" tvg-name="KURDMAX" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDMAX
+
+#EXTINF:0 CUID="48191" tvg-name="LD NUJIN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",LD NUJIN
+
+#EXTINF:0 CUID="48192" tvg-name="MOVIES HD1" group-title="|KU|KURDISTAN  كردي",MOVIES HD1
+
+#EXTINF:0 CUID="48193" tvg-name="MOVIES HD2" group-title="|KU|KURDISTAN  كردي",MOVIES HD2
+
+#EXTINF:0 CUID="48194" tvg-name="MOVIES HD3" group-title="|KU|KURDISTAN  كردي",MOVIES HD3
+
+#EXTINF:0 CUID="48195" tvg-name="MOVIES HD4" group-title="|KU|KURDISTAN  كردي",MOVIES HD4
+
+#EXTINF:0 CUID="48196" tvg-name="MOVIES HD5" group-title="|KU|KURDISTAN  كردي",MOVIES HD5
+
+#EXTINF:0 CUID="48197" tvg-name="MED MUSIC" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MED MUSIC
+
+#EXTINF:0 CUID="48198" tvg-name="NIROJ QURAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NIROJ QURAN
+
+#EXTINF:0 CUID="48199" tvg-name="NIROJ HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NIROJ HD
+
+#EXTINF:0 CUID="48200" tvg-name="NRT2 BADINI" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NRT2 BADINI
+
+#EXTINF:0 CUID="48201" tvg-name="NEU TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NEU TV
+
+#EXTINF:0 CUID="48202" tvg-name="NEXT TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NEXT TV
+
+#EXTINF:0 CUID="48203" tvg-name="PELISTANK" tvg-logo="" group-title="|KU|KURDISTAN  كردي",PELISTANK
+
+#EXTINF:0 CUID="48204" tvg-name="RAVAND TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RAVAND TV
+
+#EXTINF:0 CUID="48206" tvg-name="STERK" tvg-logo="" group-title="|KU|KURDISTAN  كردي",STERK
+
+#EXTINF:0 CUID="48207" tvg-name="UTV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",UTV
+
+#EXTINF:0 CUID="48208" tvg-name="WELAT" tvg-logo="" group-title="|KU|KURDISTAN  كردي",WELAT
+
+#EXTINF:0 CUID="48209" tvg-name="XABIR TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",XABIR TV
+
+#EXTINF:0 CUID="48210" tvg-name="ZAP TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ZAP TV
+
+#EXTINF:0 CUID="48211" tvg-name="ZEVER" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ZEVER
+
+#EXTINF:0 CUID="48212" tvg-name="ZAXO HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ZAXO HD
+
+#EXTINF:0 CUID="48213" tvg-name="ZAROK TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ZAROK TV
+
+#EXTINF:0 CUID="48220" tvg-name="CHANNEL 8 HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",CHANNEL 8 HD
+
+#EXTINF:0 CUID="48222" tvg-name="AVA TV UHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AVA TV UHD
+
+#EXTINF:0 CUID="48223" tvg-name="AVA TV FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AVA TV FHD
+
+#EXTINF:0 CUID="48225" tvg-name="CHIAN TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",CHIAN TV
+
+#EXTINF:0 CUID="48226" tvg-name="ROJHELAT ڕۆژهەڵات" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ROJHELAT ڕۆژهەڵات
+
+#EXTINF:0 CUID="48227" tvg-name="KHAK TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KHAK TV
+
+#EXTINF:0 CUID="48228" tvg-name="ZED TV PLUS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ZED TV PLUS
+
+#EXTINF:0 CUID="48229" tvg-name="ZED TV HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ZED TV HD
+
+#EXTINF:0 CUID="48230" tvg-name="KURDMAX HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDMAX HD
+
+#EXTINF:0 CUID="48231" tvg-name="KURDMAX MUSIC ♫" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDMAX MUSIC ♫
+
+#EXTINF:0 CUID="48232" tvg-name="SPEDA DRAMA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SPEDA DRAMA
+
+#EXTINF:0 CUID="48233" tvg-name="RASAN HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RASAN HD
+
+#EXTINF:0 CUID="48234" tvg-name="KALAPUR" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KALAPUR
+
+#EXTINF:0 CUID="48235" tvg-name="NISHTIMANY MN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NISHTIMANY MN
+
+#EXTINF:0 CUID="48236" tvg-name="SRUSHT" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SRUSHT
+
+#EXTINF:0 CUID="48237" tvg-name="NRT 4" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NRT 4
+
+#EXTINF:0 CUID="48238" tvg-name="NRT 3" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NRT 3
+
+#EXTINF:0 CUID="48244" tvg-name="ASTERA MOVIE" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ASTERA MOVIE
+
+#EXTINF:0 CUID="48245" tvg-name="ASTERA CULTURE" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ASTERA CULTURE
+
+#EXTINF:0 CUID="48246" tvg-name="ASTERA SHOW" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ASTERA SHOW
+
+#EXTINF:0 CUID="48247" tvg-name="ASTERA DOCU." tvg-logo="" group-title="|KU|KURDISTAN  كردي",ASTERA DOCU.
+
+#EXTINF:0 CUID="48248" tvg-name="ASTERA FAMILY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ASTERA FAMILY
+
+#EXTINF:0 CUID="48249" tvg-name="NEW LINE 1" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NEW LINE 1
+
+#EXTINF:0 CUID="48250" tvg-name="NEW LINE 2" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NEW LINE 2
+
+#EXTINF:0 CUID="48253" tvg-name="NEWLINE MOVIE" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NEWLINE MOVIE
+
+#EXTINF:0 CUID="48254" tvg-name="NEWLINE BOLLYWOOD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NEWLINE BOLLYWOOD
+
+#EXTINF:0 CUID="48255" tvg-name="NEWLINE DRAMA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NEWLINE DRAMA
+
+#EXTINF:0 CUID="48257" tvg-name="BARIN ACTION" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BARIN ACTION
+
+#EXTINF:0 CUID="48258" tvg-name="AZADI" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AZADI
+
+#EXTINF:0 CUID="48259" tvg-name="ARO FAMILY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ARO FAMILY
+
+#EXTINF:0 CUID="48261" tvg-name="NIGA MOVIE" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NIGA MOVIE
+
+#EXTINF:0 CUID="48262" tvg-name="NIGA FAMILY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NIGA FAMILY
+
+#EXTINF:0 CUID="48264" tvg-name="RENG DOCUMENTARY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RENG DOCUMENTARY
+
+#EXTINF:0 CUID="48265" tvg-name="RENG HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RENG HD
+
+#EXTINF:0 CUID="48267" tvg-name="MMN ACTION" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MMN ACTION
+
+#EXTINF:0 CUID="48268" tvg-name="KURDMAX کرمانجی" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDMAX کرمانجی
+
+#EXTINF:0 CUID="48269" tvg-name="KURDMAX SHOW کرمانجی" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDMAX SHOW کرمانجی
+
+#EXTINF:0 CUID="48271" tvg-name="LD NUNJUN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",LD NUNJUN
+
+#EXTINF:0 CUID="48272" tvg-name="LD PSHDAR" tvg-logo="" group-title="|KU|KURDISTAN  كردي",LD PSHDAR
+
+#EXTINF:0 CUID="48273" tvg-name="LD LIFE" tvg-logo="" group-title="|KU|KURDISTAN  كردي",LD LIFE
+
+#EXTINF:0 CUID="48274" tvg-name="LD AZHIN TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",LD AZHIN TV
+
+#EXTINF:0 CUID="48277" tvg-name="MMN SHOW" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MMN SHOW
+
+#EXTINF:0 CUID="48279" tvg-name="MMN MOVIES" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MMN MOVIES
+
+#EXTINF:0 CUID="48280" tvg-name="MMN CLIP ♫" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MMN CLIP ♫
+
+#EXTINF:0 CUID="48281" tvg-name="MMN PERSIAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MMN PERSIAN
+
+#EXTINF:0 CUID="48282" tvg-name="MMN QURAN ۞" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MMN QURAN ۞
+
+#EXTINF:0 CUID="48284" tvg-name="MMN TURKY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MMN TURKY
+
+#EXTINF:0 CUID="48285" tvg-name="QALAM AEENI ۞" tvg-logo="" group-title="|KU|KURDISTAN  كردي",QALAM AEENI ۞
+
+#EXTINF:0 CUID="48286" tvg-name="QALAM DOCUMENTARY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",QALAM DOCUMENTARY
+
+#EXTINF:0 CUID="48287" tvg-name="QALAM TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",QALAM TV
+
+#EXTINF:0 CUID="48289" tvg-name="QALAT HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",QALAT HD
+
+#EXTINF:0 CUID="48290" tvg-name="BARIN QURAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BARIN QURAN
+
+#EXTINF:0 CUID="48291" tvg-name="BARIN FAMILY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BARIN FAMILY
+
+#EXTINF:0 CUID="48292" tvg-name="BARIN MOVIES" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BARIN MOVIES
+
+#EXTINF:0 CUID="48293" tvg-name="BAZ DOCUMENTARY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BAZ DOCUMENTARY
+
+#EXTINF:0 CUID="48294" tvg-name="BNAR QURAN ۞" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BNAR QURAN ۞
+
+#EXTINF:0 CUID="48295" tvg-name="SPI TV ۞" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SPI TV ۞
+
+#EXTINF:0 CUID="48296" tvg-name="SPI QURAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SPI QURAN
+
+#EXTINF:0 CUID="48298" tvg-name="SHNA QURAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SHNA QURAN
+
+#EXTINF:0 CUID="48299" tvg-name="DERWAZA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DERWAZA
+
+#EXTINF:0 CUID="48300" tvg-name="DERWAZA MUSIC" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DERWAZA MUSIC
+
+#EXTINF:0 CUID="48303" tvg-name="MTV MUSIC ♫" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MTV MUSIC ♫
+
+#EXTINF:0 CUID="48305" tvg-name="MTV FAMILY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MTV FAMILY
+
+#EXTINF:0 CUID="48312" tvg-name="AVA ENTERTAINMENT" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AVA ENTERTAINMENT
+
+#EXTINF:0 CUID="48313" tvg-name="REVEND" tvg-logo="" group-title="|KU|KURDISTAN  كردي",REVEND
+
+#EXTINF:0 CUID="48314" tvg-name="KURDSAT FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDSAT FHD
+
+#EXTINF:0 CUID="48315" tvg-name="AFRIN باخچە" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AFRIN باخچە
+
+#EXTINF:0 CUID="48317" tvg-name="Like Movie" group-title="|KU|KURDISTAN  كردي",Like Movie
+
+#EXTINF:0 CUID="48318" tvg-name="ALA TV FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ALA TV FHD
+
+#EXTINF:0 CUID="48319" tvg-name="ASMAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ASMAN
+
+#EXTINF:0 CUID="48320" tvg-name="ANIMAL BOX" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ANIMAL BOX
+
+#EXTINF:0 CUID="48321" tvg-name="BMC" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BMC
+
+#EXTINF:0 CUID="48322" tvg-name="BAHA ENTERTAINMENT" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BAHA ENTERTAINMENT
+
+#EXTINF:0 CUID="48323" tvg-name="BASK" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BASK
+
+#EXTINF:0 CUID="48324" tvg-name="BABOLY" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BABOLY
+
+#EXTINF:0 CUID="48325" tvg-name="BNAR HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BNAR HD
+
+#EXTINF:0 CUID="48326" tvg-name="BNAR MOVIE" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BNAR MOVIE
+
+#EXTINF:0 CUID="48327" tvg-name="BINAR HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",BINAR HD
+
+#EXTINF:0 CUID="48328" tvg-name="CHIAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",CHIAN
+
+#EXTINF:0 CUID="48329" tvg-name="DIMEN HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DIMEN HD
+
+#EXTINF:0 CUID="48330" tvg-name="DASANYA TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DASANYA TV
+
+#EXTINF:0 CUID="48332" tvg-name="Derin TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Derin TV
+
+#EXTINF:0 CUID="48333" tvg-name="KURD MOVIE HD1" group-title="|KU|KURDISTAN  كردي",KURD MOVIE HD1
+
+#EXTINF:0 CUID="48334" tvg-name="EFECT TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",EFECT TV
+
+#EXTINF:0 CUID="48335" tvg-name="ESTA TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ESTA TV
+
+#EXTINF:0 CUID="48336" tvg-name="ESRA TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ESRA TV
+
+#EXTINF:0 CUID="48337" tvg-name="ESRA TV HD2" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ESRA TV HD2
+
+#EXTINF:0 CUID="48338" tvg-name="ESRA QURAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ESRA QURAN
+
+#EXTINF:0 CUID="48339" tvg-name="EMAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",EMAN
+
+#EXTINF:0 CUID="48340" tvg-name="FOX HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",FOX HD
+
+#EXTINF:0 CUID="48342" tvg-name="GARYAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",GARYAN
+
+#EXTINF:0 CUID="48343" tvg-name="HALABJA  TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",HALABJA  TV
+
+#EXTINF:0 CUID="48344" tvg-name="ASHTI" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ASHTI
+
+#EXTINF:0 CUID="48345" tvg-name="ISHTAR TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ISHTAR TV
+
+#EXTINF:0 CUID="48346" tvg-name="IMK QURAN ۞" tvg-logo="" group-title="|KU|KURDISTAN  كردي",IMK QURAN ۞
+
+#EXTINF:0 CUID="48347" tvg-name="IRIB KURDISTAN" tvg-logo="" group-title="|KU|KURDISTAN  كردي",IRIB KURDISTAN
+
+#EXTINF:0 CUID="48348" tvg-name="IMK  HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",IMK  HD
+
+#EXTINF:0 CUID="48349" tvg-name="JAMAWAR" tvg-logo="" group-title="|KU|KURDISTAN  كردي",JAMAWAR
+
+#EXTINF:0 CUID="48350" tvg-name="JOJO MAMA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",JOJO MAMA
+
+#EXTINF:0 CUID="48351" tvg-name="KIRKUK TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KIRKUK TV
+
+#EXTINF:0 CUID="48353" tvg-name="KOMALA TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KOMALA TV
+
+#EXTINF:0 CUID="48354" tvg-name="DEKAN QURAN" group-title="|KU|KURDISTAN  كردي",DEKAN QURAN
+
+#EXTINF:0 CUID="48355" tvg-name="BNAR ACTION DRAMA" group-title="|KU|KURDISTAN  كردي",BNAR ACTION DRAMA
+
+#EXTINF:0 CUID="48356" tvg-name="KANAL 21" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KANAL 21
+
+#EXTINF:0 CUID="48357" tvg-name="KURDCINEMA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDCINEMA
+
+#EXTINF:0 CUID="48358" tvg-name="KURDC" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDC
+
+#EXTINF:0 CUID="48359" tvg-name="K24 DOC. FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",K24 DOC. FHD
+
+#EXTINF:0 CUID="48360" tvg-name="K24 DOC." tvg-logo="" group-title="|KU|KURDISTAN  كردي",K24 DOC.
+
+#EXTINF:0 CUID="48361" tvg-name="KURDANA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDANA
+
+#EXTINF:0 CUID="48362" tvg-name="KURD7" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURD7
+
+#EXTINF:0 CUID="48363" tvg-name="KOMAL HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KOMAL HD
+
+#EXTINF:0 CUID="48364" tvg-name="Kurdish TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Kurdish TV
+
+#EXTINF:0 CUID="48365" tvg-name="KOMAL RANYA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KOMAL RANYA
+
+#EXTINF:0 CUID="48366" tvg-name="MIHRAB RADIO" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MIHRAB RADIO
+
+#EXTINF:0 CUID="48367" tvg-name="Minara TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Minara TV
+
+#EXTINF:0 CUID="48368" tvg-name="MIHRAB TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MIHRAB TV
+
+#EXTINF:0 CUID="48369" tvg-name="NOOR" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NOOR
+
+#EXTINF:0 CUID="48370" tvg-name="NIROJ QURAN ۞" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NIROJ QURAN ۞
+
+#EXTINF:0 CUID="48371" tvg-name="Nuber TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Nuber TV
+
+#EXTINF:0 CUID="48372" tvg-name="NOHADRA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NOHADRA
+
+#EXTINF:0 CUID="48373" tvg-name="NIROJ TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NIROJ TV
+
+#EXTINF:0 CUID="48374" tvg-name="ONE WORLD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ONE WORLD
+
+#EXTINF:0 CUID="48375" tvg-name="KURD MOVIE HD2" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURD MOVIE HD2
+
+#EXTINF:0 CUID="48376" tvg-name="PESHMARGA TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",PESHMARGA TV
+
+#EXTINF:0 CUID="48377" tvg-name="PARWARDA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",PARWARDA
+
+#EXTINF:0 CUID="48378" tvg-name="PARWARDAI HAWLER" tvg-logo="" group-title="|KU|KURDISTAN  كردي",PARWARDAI HAWLER
+
+#EXTINF:0 CUID="48379" tvg-name="ROZH" group-title="|KU|KURDISTAN  كردي",ROZH
+
+#EXTINF:0 CUID="48380" tvg-name="KURD CHANNEL" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURD CHANNEL
+
+#EXTINF:0 CUID="48381" tvg-name="RANYA TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RANYA TV
+
+#EXTINF:0 CUID="48382" tvg-name="SHAR TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SHAR TV
+
+#EXTINF:0 CUID="48383" tvg-name="SHNA HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SHNA HD
+
+#EXTINF:0 CUID="48385" tvg-name="SAHAR TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SAHAR TV
+
+#EXTINF:0 CUID="48386" tvg-name="SHAISTA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SHAISTA
+
+#EXTINF:0 CUID="48387" tvg-name="Slemany RT" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Slemany RT
+
+#EXTINF:0 CUID="48388" tvg-name="STERK TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",STERK TV
+
+#EXTINF:0 CUID="48389" tvg-name="SADA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SADA
+
+#EXTINF:0 CUID="48390" tvg-name="SOZ TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SOZ TV
+
+#EXTINF:0 CUID="48391" tvg-name="SORAN ENTERTAINMENT" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SORAN ENTERTAINMENT
+
+#EXTINF:0 CUID="48392" tvg-name="TASAWF" tvg-logo="" group-title="|KU|KURDISTAN  كردي",TASAWF
+
+#EXTINF:0 CUID="48393" tvg-name="UTV HAWLER" tvg-logo="" group-title="|KU|KURDISTAN  كردي",UTV HAWLER
+
+#EXTINF:0 CUID="48394" tvg-name="U2" tvg-logo="" group-title="|KU|KURDISTAN  كردي",U2
+
+#EXTINF:0 CUID="48395" tvg-name="Welat  TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Welat  TV
+
+#EXTINF:0 CUID="48396" tvg-name="YARAN HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",YARAN HD
+
+#EXTINF:0 CUID="48397" tvg-name="ZHYAR TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ZHYAR TV
+
+#EXTINF:0 CUID="48398" tvg-name="ZNAR TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ZNAR TV
+
+#EXTINF:0 CUID="48400" tvg-name="4 Anime منداڵان" tvg-logo="" group-title="|KU|KURDISTAN  كردي",4 Anime منداڵان
+
+#EXTINF:0 CUID="48401" tvg-name="4 KURD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",4 KURD
+
+#EXTINF:0 CUID="58784" tvg-name="KU :  SHAMS TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KU :  SHAMS TV
+
+#EXTINF:0 CUID="58785" tvg-name="Ku: Iraqia Kurdish TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Iraqia Kurdish TV
+
+#EXTINF:0 CUID="58786" tvg-name="RUDAW UHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RUDAW UHD
+
+#EXTINF:0 CUID="58787" tvg-name="K24 HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",K24 HD
+
+#EXTINF:0 CUID="58788" tvg-name="KURDSAT NEWS  HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDSAT NEWS  HD
+
+#EXTINF:0 CUID="58789" tvg-name="SPEDA" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SPEDA
+
+#EXTINF:0 CUID="58790" tvg-name="WAAR" tvg-logo="" group-title="|KU|KURDISTAN  كردي",WAAR
+
+#EXTINF:0 CUID="58791" tvg-name="Gali Kurdistan" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Gali Kurdistan
+
+#EXTINF:0 CUID="58792" tvg-name="KURDSAT HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDSAT HD
+
+#EXTINF:0 CUID="58793" tvg-name="KURDISTAN TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDISTAN TV
+
+#EXTINF:0 CUID="58794" tvg-name="KURD SAT HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURD SAT HD
+
+#EXTINF:0 CUID="58795" tvg-name="WAAR TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",WAAR TV
+
+#EXTINF:0 CUID="58796" tvg-name="RONAHI" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RONAHI
+
+#EXTINF:0 CUID="58797" tvg-name="KURDSAT" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDSAT
+
+#EXTINF:0 CUID="58798" tvg-name="RUDAW HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RUDAW HD
+
+#EXTINF:0 CUID="58799" tvg-name="RUDAW FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RUDAW FHD
+
+#EXTINF:0 CUID="58800" tvg-name="NRT FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NRT FHD
+
+#EXTINF:0 CUID="58801" tvg-name="NRT HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NRT HD
+
+#EXTINF:0 CUID="58802" tvg-name="K24 FHD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",K24 FHD
+
+#EXTINF:0 CUID="58803" tvg-name="KURDSAT NEWS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KURDSAT NEWS
+
+#EXTINF:0 CUID="58804" tvg-name="MMN NEWS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MMN NEWS
+
+#EXTINF:0 CUID="58805" tvg-name="ZAGROS TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ZAGROS TV
+
+#EXTINF:0 CUID="48090" tvg-name="KU : ZAROK 4K" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KU : ZAROK 4K
+
+#EXTINF:0 CUID="48093" tvg-name="Ku: NRT 3 Kids HD" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: NRT 3 Kids HD
+
+#EXTINF:0 CUID="48104" tvg-name="Ku: Kirkuk TV" tvg-logo="" group-title="|KU|KURDISTAN  كردي",Ku: Kirkuk TV
+
+#EXTINF:0 CUID="48140" tvg-name="ZARO KIDS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",ZARO KIDS
+
+#EXTINF:0 CUID="48177" tvg-name="DASNYA KIDS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DASNYA KIDS
+
+#EXTINF:0 CUID="48190" tvg-name="KIDCO" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KIDCO
+
+#EXTINF:0 CUID="48252" tvg-name="NEWLINE KID" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NEWLINE KID
+
+#EXTINF:0 CUID="48260" tvg-name="NIGA KIDS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",NIGA KIDS
+
+#EXTINF:0 CUID="48266" tvg-name="RENG KIDS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",RENG KIDS
+
+#EXTINF:0 CUID="48278" tvg-name="MMN KIDS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MMN KIDS
+
+#EXTINF:0 CUID="48297" tvg-name="SPI KIDS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",SPI KIDS
+
+#EXTINF:0 CUID="48304" tvg-name="MTV KIDS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",MTV KIDS
+
+#EXTINF:0 CUID="48316" tvg-name="AFRIN KIDS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",AFRIN KIDS
+
+#EXTINF:0 CUID="48331" tvg-name="DASANYA KID" tvg-logo="" group-title="|KU|KURDISTAN  كردي",DASANYA KID
+
+#EXTINF:0 CUID="48341" tvg-name="FIRST KIDS منداڵان" tvg-logo="" group-title="|KU|KURDISTAN  كردي",FIRST KIDS منداڵان
+
+#EXTINF:0 CUID="48352" tvg-name="KIDCO KIDS" tvg-logo="" group-title="|KU|KURDISTAN  كردي",KIDCO KIDS
+
+#EXTINF:0 CUID="8490" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="" group-title="KURDISH ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
+
+#EXTINF:0 CUID="8491" tvg-name="آية الكرسي" tvg-logo="" group-title="KURDISH ",آية الكرسي
+
+#EXTINF:0 CUID="8492" tvg-name="اشهد ان لا إله إلا الله" tvg-logo="" group-title="KURDISH ",اشهد ان لا إله إلا الله
+
+#EXTINF:0 CUID="8493" tvg-name="زيكرى بەیانیان پێشەوا قادر" tvg-logo="" group-title="KURDISH ",زيكرى بەیانیان پێشەوا قادر
+
+#EXTINF:0 CUID="8494" tvg-name="کەناڵی ئامۆژگاری" tvg-logo="" group-title="KURDISH ",کەناڵی ئامۆژگاری
+
+#EXTINF:0 CUID="8495" tvg-name="ئەکادیمیای ئامۆژگاری" tvg-logo="" group-title="KURDISH ",ئەکادیمیای ئامۆژگاری
+
+#EXTINF:0 CUID="8496" tvg-name="Rawshan hd" tvg-logo="" group-title="KURDISH ",Rawshan hd
+
+#EXTINF:0 CUID="8497" tvg-name="BARIN QURAN" tvg-logo="" group-title="KURDISH ",BARIN QURAN
+
+#EXTINF:0 CUID="8498" tvg-name="IMK QURAN HD" tvg-logo="" group-title="KURDISH ",IMK QURAN HD
+
+#EXTINF:0 CUID="8499" tvg-name="EMAN" tvg-logo="" group-title="KURDISH ",EMAN
+
+#EXTINF:0 CUID="8500" tvg-name="Sroshty" tvg-logo="" group-title="KURDISH ",Sroshty
+
+#EXTINF:0 CUID="8501" tvg-name="ESRA TV 1" tvg-logo="" group-title="KURDISH ",ESRA TV 1
+
+#EXTINF:0 CUID="8502" tvg-name="ESRA TV 2" tvg-logo="" group-title="KURDISH ",ESRA TV 2
+
+#EXTINF:0 CUID="8503" tvg-name="ESRA Quran HD" tvg-logo="" group-title="KURDISH ",ESRA Quran HD
+
+#EXTINF:0 CUID="8504" tvg-name="SPI TV" tvg-logo="" group-title="KURDISH ",SPI TV
+
+#EXTINF:0 CUID="8505" tvg-name="SPIQURANHD" tvg-logo="" group-title="KURDISH ",SPIQURANHD
+
+#EXTINF:0 CUID="8506" tvg-name="spi kids 4k" tvg-logo="" group-title="KURDISH ",spi kids 4k
+
+#EXTINF:0 CUID="8507" tvg-name="shan quran" tvg-logo="" group-title="KURDISH ",shan quran
+
+#EXTINF:0 CUID="8508" tvg-name="NaqshiMedia" tvg-logo="" group-title="KURDISH ",NaqshiMedia
+
+#EXTINF:0 CUID="8509" tvg-name="BANGAWAZ ۞-Badinan" tvg-logo="" group-title="KURDISH ",BANGAWAZ ۞-Badinan
+
+#EXTINF:0 CUID="8510" tvg-name="AVA TV HD" tvg-logo="" group-title="KURDISH ",AVA TV HD
+
+#EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="" group-title="KURDISH ",NRT HD
+
+#EXTINF:0 CUID="8512" tvg-name="NRT 2" tvg-logo="" group-title="KURDISH ",NRT 2
+
+#EXTINF:0 CUID="8514" tvg-name="NRT 4" tvg-logo="" group-title="KURDISH ",NRT 4
+
+#EXTINF:0 CUID="8515" tvg-name="RUDAW HD" tvg-logo="" group-title="KURDISH ",RUDAW HD
+
+#EXTINF:0 CUID="8516" tvg-name="K24 FHD" tvg-logo="" group-title="KURDISH ",K24 FHD
+
+#EXTINF:0 CUID="8517" tvg-name="Channel 8 HD" tvg-logo="" group-title="KURDISH ",Channel 8 HD
+
+#EXTINF:0 CUID="8518" tvg-name="KURDSAT" tvg-logo="" group-title="KURDISH ",KURDSAT
+
+#EXTINF:0 CUID="8519" tvg-name="KURDSAT NEWS" tvg-logo="" group-title="KURDISH ",KURDSAT NEWS
+
+#EXTINF:0 CUID="8520" tvg-name="Soran Entertainment" tvg-logo="" group-title="KURDISH ",Soran Entertainment
+
+#EXTINF:0 CUID="8521" tvg-name="GALI KURDISTAN" tvg-logo="" group-title="KURDISH ",GALI KURDISTAN
+
+#EXTINF:0 CUID="8523" tvg-name="KURDISTAN TV" tvg-logo="" group-title="KURDISH ",KURDISTAN TV
+
+#EXTINF:0 CUID="8524" tvg-name="KURDMAX سۆرانی" tvg-logo="" group-title="KURDISH ",KURDMAX سۆرانی
+
+#EXTINF:0 CUID="8525" tvg-name="KURDMAX کرمانجی" tvg-logo="" group-title="KURDISH ",KURDMAX کرمانجی
+
+#EXTINF:0 CUID="8526" tvg-name="KURDMAX SHOW سۆرانی" tvg-logo="" group-title="KURDISH ",KURDMAX SHOW سۆرانی
+
+#EXTINF:0 CUID="8527" tvg-name="KURDMAX SHOW کرمانجی" tvg-logo="" group-title="KURDISH ",KURDMAX SHOW کرمانجی
+
+#EXTINF:0 CUID="8528" tvg-name="RAVAND-HD" tvg-logo="" group-title="KURDISH ",RAVAND-HD
+
+#EXTINF:0 CUID="8529" tvg-name="LIKE MOVIES HD" tvg-logo="" group-title="KURDISH ",LIKE MOVIES HD
+
+#EXTINF:0 CUID="8530" tvg-name="NEW LINE 1" tvg-logo="" group-title="KURDISH ",NEW LINE 1
+
+#EXTINF:0 CUID="8531" tvg-name="NEW LINE 2" tvg-logo="" group-title="KURDISH ",NEW LINE 2
+
+#EXTINF:0 CUID="8532" tvg-name="ZED TV" tvg-logo="" group-title="KURDISH ",ZED TV
+
+#EXTINF:0 CUID="8533" tvg-name="ZED TV PLUS" tvg-logo="" group-title="KURDISH ",ZED TV PLUS
+
+#EXTINF:0 CUID="8534" tvg-name="shnatv" tvg-logo="" group-title="KURDISH ",shnatv
+
+#EXTINF:0 CUID="8535" tvg-name="SHNA TV QURAN" tvg-logo="" group-title="KURDISH ",SHNA TV QURAN
+
+#EXTINF:0 CUID="8536" tvg-name="ZAGROS TV" tvg-logo="" group-title="KURDISH ",ZAGROS TV
+
+#EXTINF:0 CUID="8537" tvg-name="KHAK TV" tvg-logo="" group-title="KURDISH ",KHAK TV
+
+#EXTINF:0 CUID="8538" tvg-name="DUHOK-TV" tvg-logo="" group-title="KURDISH ",DUHOK-TV
+
+#EXTINF:0 CUID="8539" tvg-name="zaroktv" tvg-logo="" group-title="KURDISH ",zaroktv
+
+#EXTINF:0 CUID="8540" tvg-name="Pro TV Quran" group-title="KURDISH ",Pro TV Quran
+
+#EXTINF:0 CUID="8541" tvg-name="Sahar Kurdi" tvg-logo="" group-title="KURDISH ",Sahar Kurdi
+
+#EXTINF:0 CUID="8542" tvg-name="ISHTAR TV" tvg-logo="" group-title="KURDISH ",ISHTAR TV
+
+#EXTINF:0 CUID="8543" tvg-name="KURDANA" tvg-logo="" group-title="KURDISH ",KURDANA
+
+#EXTINF:0 CUID="8544" tvg-name="Minara FM" tvg-logo="" group-title="KURDISH ",Minara FM
+
+#EXTINF:0 CUID="8545" tvg-name="BANGAWAZ ۞" tvg-logo="" group-title="KURDISH ",BANGAWAZ ۞
+
+#EXTINF:0 CUID="8546" tvg-name="NIROJ-HD" tvg-logo="" group-title="KURDISH ",NIROJ-HD
+
+#EXTINF:0 CUID="8547" tvg-name="graryantv" tvg-logo="" group-title="KURDISH ",graryantv
+
+#EXTINF:0 CUID="8548" tvg-name="KURD7" tvg-logo="" group-title="KURDISH ",KURD7
+
+#EXTINF:0 CUID="8549" tvg-name="WARR TV" tvg-logo="" group-title="KURDISH ",WARR TV
+
+#EXTINF:0 CUID="8550" tvg-name="KALAPUR" tvg-logo="" group-title="KURDISH ",KALAPUR
+
+#EXTINF:0 CUID="8551" tvg-name="IMK HD" tvg-logo="" group-title="KURDISH ",IMK HD
+
+#EXTINF:0 CUID="8552" tvg-name="SPEDA" tvg-logo="" group-title="KURDISH ",SPEDA
+
+#EXTINF:0 CUID="8553" tvg-name="Speda Drama" tvg-logo="" group-title="KURDISH ",Speda Drama
+
+#EXTINF:0 CUID="8554" tvg-name="ZEVER" tvg-logo="" group-title="KURDISH ",ZEVER
+
+#EXTINF:0 CUID="8555" tvg-name="Dunya Hd" tvg-logo="" group-title="KURDISH ",Dunya Hd
+
+#EXTINF:0 CUID="8556" tvg-name="HALABJA" tvg-logo="" group-title="KURDISH ",HALABJA
+
+#EXTINF:0 CUID="8557" tvg-name="FarmodaTV" tvg-logo="" group-title="KURDISH ",FarmodaTV
+
+#EXTINF:0 CUID="8558" tvg-name="tvkurdi" group-title="KURDISH ",tvkurdi
+
+#EXTINF:0 CUID="8559" tvg-name="Minara TV" tvg-logo="" group-title="KURDISH ",Minara TV
+
+#EXTINF:0 CUID="8560" tvg-name="SHAISTA" tvg-logo="" group-title="KURDISH ",SHAISTA
+
+#EXTINF:0 CUID="8561" tvg-name="EUROKURD" tvg-logo="" group-title="KURDISH ",EUROKURD
+
+#EXTINF:0 CUID="8562" tvg-name="PAYAM TV" tvg-logo="" group-title="KURDISH ",PAYAM TV
+
+#EXTINF:0 CUID="8563" tvg-name="AFRIN TV FHD" tvg-logo="" group-title="KURDISH ",AFRIN TV FHD
+
+#EXTINF:0 CUID="8564" tvg-name="AFRIN باخچە" tvg-logo="" group-title="KURDISH ",AFRIN باخچە
+
+#EXTINF:0 CUID="8565" tvg-name="AFRIN KIDS" tvg-logo="" group-title="KURDISH ",AFRIN KIDS
+
+#EXTINF:0 CUID="8566" tvg-name="LAWAN HD" tvg-logo="" group-title="KURDISH ",LAWAN HD
+
+#EXTINF:0 CUID="8567" tvg-name="Barin Sport hd" tvg-logo="" group-title="KURDISH ",Barin Sport hd
+
+#EXTINF:0 CUID="8568" tvg-name="Kirkuk TV" tvg-logo="" group-title="KURDISH ",Kirkuk TV
+
+#EXTINF:0 CUID="8569" tvg-name="JOJO MAMA" tvg-logo="" group-title="KURDISH ",JOJO MAMA
+
+#EXTINF:0 CUID="8570" tvg-name="BAHA ENTERTAINMENT" tvg-logo="" group-title="KURDISH ",BAHA ENTERTAINMENT
+
+#EXTINF:0 CUID="8571" tvg-name="SHNA HD" tvg-logo="" group-title="KURDISH ",SHNA HD
+
+#EXTINF:0 CUID="8572" tvg-name="SOZ QURAN" tvg-logo="" group-title="KURDISH ",SOZ QURAN
+
+#EXTINF:0 CUID="8573" tvg-name="SOZ QURAN 2" tvg-logo="" group-title="KURDISH ",SOZ QURAN 2
+
+#EXTINF:0 CUID="8574" tvg-name="sozetv" tvg-logo="" group-title="KURDISH ",sozetv
+
+#EXTINF:0 CUID="8575" tvg-name="AZADI TV" tvg-logo="" group-title="KURDISH ",AZADI TV
+
+#EXTINF:0 CUID="8576" tvg-name="NOOR" tvg-logo="" group-title="KURDISH ",NOOR
+
+#EXTINF:0 CUID="8577" tvg-name="SADA" tvg-logo="" group-title="KURDISH ",SADA
+
+#EXTINF:0 CUID="8578" tvg-name="LIKE MOVIES HD" tvg-logo="" group-title="KURDISH ",LIKE MOVIES HD
+
+#EXTINF:0 CUID="8579" tvg-name="Nuber Sport TV" tvg-logo="" group-title="KURDISH ",Nuber Sport TV
+
+#EXTINF:0 CUID="8580" tvg-name="Nuber Plus TV" tvg-logo="" group-title="KURDISH ",Nuber Plus TV
+
+#EXTINF:0 CUID="8581" tvg-name="Nuber TV" tvg-logo="" group-title="KURDISH ",Nuber TV
+
+#EXTINF:0 CUID="8582" tvg-name="infinity-tv" tvg-logo="" group-title="KURDISH ",infinity-tv
+
+#EXTINF:0 CUID="8583" tvg-name="NAT GEO WILD" tvg-logo="" group-title="KURDISH ",NAT GEO WILD
+
+#EXTINF:0 CUID="8584" tvg-name="Mix SPORT" group-title="KURDISH ",Mix SPORT
+
+#EXTINF:0 CUID="8585" tvg-name="towheedtv" tvg-logo="" group-title="KURDISH ",towheedtv
+
+#EXTINF:0 CUID="8586" tvg-name="ISTAR Quran" group-title="KURDISH ",ISTAR Quran
+
+#EXTINF:0 CUID="8587" tvg-name="HORMIZAIR" tvg-logo="" group-title="KURDISH ",HORMIZAIR
+
+#EXTINF:0 CUID="8588" tvg-name="rasoulallahtv" tvg-logo="" group-title="KURDISH ",rasoulallahtv
+
+#EXTINF:0 CUID="8589" tvg-name="SHAR TV" tvg-logo="" group-title="KURDISH ",SHAR TV
+
+#EXTINF:0 CUID="8590" tvg-name="SHAR TV" tvg-logo="" group-title="KURDISH ",SHAR TV
+
+#EXTINF:0 CUID="8591" tvg-name="ALA" tvg-logo="" group-title="KURDISH ",ALA
+
+#EXTINF:0 CUID="8592" tvg-name="HALABJA  TV" tvg-logo="" group-title="KURDISH ",HALABJA  TV
+
+#EXTINF:0 CUID="8593" tvg-name="Like Movie" tvg-logo="" group-title="KURDISH ",Like Movie
+
+#EXTINF:0 CUID="8594" tvg-name="MMN SHOW" tvg-logo="" group-title="KURDISH ",MMN SHOW
+
+#EXTINF:0 CUID="8595" tvg-name="MMN NEWS" tvg-logo="" group-title="KURDISH ",MMN NEWS
+
+#EXTINF:0 CUID="8596" tvg-name="MMN MOVIES" tvg-logo="" group-title="KURDISH ",MMN MOVIES
+
+#EXTINF:0 CUID="8597" tvg-name="MMN CLIP" tvg-logo="" group-title="KURDISH ",MMN CLIP
+
+#EXTINF:0 CUID="8598" tvg-name="MMN ACTION" tvg-logo="" group-title="KURDISH ",MMN ACTION
+
+#EXTINF:0 CUID="8599" tvg-name="MMN KIDS" tvg-logo="" group-title="KURDISH ",MMN KIDS
+
+#EXTINF:0 CUID="8600" tvg-name="MMN QURAN" tvg-logo="" group-title="KURDISH ",MMN QURAN
+
+#EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="" group-title="KURDISH ",MMN SPORT
+
+#EXTINF:0 CUID="8602" tvg-name="animalbox" tvg-logo="" group-title="KURDISH ",animalbox
+
+#EXTINF:0 CUID="8603" tvg-name="BARIN MOVIES" tvg-logo="" group-title="KURDISH ",BARIN MOVIES
+
+#EXTINF:0 CUID="8604" tvg-name="Barin family HD" tvg-logo="" group-title="KURDISH ",Barin family HD
+
+#EXTINF:0 CUID="8605" tvg-name="Bnar Movies HD" tvg-logo="" group-title="KURDISH ",Bnar Movies HD
+
+#EXTINF:0 CUID="8606" tvg-name="Bnar HD" tvg-logo="" group-title="KURDISH ",Bnar HD
+
+#EXTINF:0 CUID="8607" tvg-name="AVAR TV" tvg-logo="" group-title="KURDISH ",AVAR TV
+
+#EXTINF:0 CUID="8608" tvg-name="NEXT TV" tvg-logo="" group-title="KURDISH ",NEXT TV
+
+#EXTINF:0 CUID="8609" tvg-name="KANALI 21" tvg-logo="" group-title="KURDISH ",KANALI 21
+
+#EXTINF:0 CUID="8610" tvg-name="Wala tv" tvg-logo="" group-title="KURDISH ",Wala tv
+
+#EXTINF:0 CUID="8611" tvg-name="Astera sport" tvg-logo="" group-title="KURDISH ",Astera sport
+
+#EXTINF:0 CUID="8612" tvg-name="Arifan DOC" tvg-logo="" group-title="KURDISH ",Arifan DOC
+
+#EXTINF:0 CUID="8613" tvg-name="Darwaza Tv" tvg-logo="" group-title="KURDISH ",Darwaza Tv
+
+#EXTINF:0 CUID="8614" tvg-name="KORAJARTV" group-title="KURDISH ",KORAJARTV
+
+#EXTINF:0 CUID="8615" tvg-name="DENGE ZELAL TV" tvg-logo="" group-title="KURDISH ",DENGE ZELAL TV
+
+#EXTINF:0 CUID="8616" tvg-name="AVA Sports hd" tvg-logo="" group-title="KURDISH ",AVA Sports hd
+
+#EXTINF:0 CUID="8617" tvg-name="baskhd" group-title="KURDISH ",baskhd
+
+#EXTINF:0 CUID="8618" tvg-name="tvradiof" group-title="KURDISH ",tvradiof
+
+#EXTINF:0 CUID="8619" tvg-name="radiokrd" group-title="KURDISH ",radiokrd
+
+#EXTINF:0 CUID="8620" tvg-name="DUHOK-TV" tvg-logo="" group-title="KURDISH ",DUHOK-TV
+
+#EXTINF:0 CUID="8621" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="" group-title="KURDISH ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
+
+#EXTINF:0 CUID="8622" tvg-name="WAAR TV" tvg-logo="" group-title="KURDISH ",WAAR TV
+
+#EXTINF:0 CUID="8623" tvg-name="AVAR TV" tvg-logo="" group-title="KURDISH ",AVAR TV
+
+#EXTINF:0 CUID="8624" tvg-name="ARYAN TV" tvg-logo="" group-title="KURDISH ",ARYAN TV
+
+#EXTINF:0 CUID="8625" tvg-name="BEFRIN TV" tvg-logo="" group-title="KURDISH ",BEFRIN TV
+
+#EXTINF:0 CUID="8626" tvg-name="CIRA TV" tvg-logo="" group-title="KURDISH ",CIRA TV
+
+#EXTINF:0 CUID="8627" tvg-name="DUHOK TV" tvg-logo="" group-title="KURDISH ",DUHOK TV
+
+#EXTINF:0 CUID="8628" tvg-name="aryen" tvg-logo="" group-title="KURDISH ",aryen
+
+#EXTINF:0 CUID="8629" tvg-name="EURO-KURD" tvg-logo="" group-title="KURDISH ",EURO-KURD
+
+#EXTINF:0 CUID="8630" tvg-name="HORMIZAIR" tvg-logo="" group-title="KURDISH ",HORMIZAIR
+
+#EXTINF:0 CUID="8631" tvg-name="JIN TV" tvg-logo="" group-title="KURDISH ",JIN TV
+
+#EXTINF:0 CUID="8632" tvg-name="KORAJAR TV" group-title="KURDISH ",KORAJAR TV
+
+#EXTINF:0 CUID="8633" tvg-name="KURD 7" tvg-logo="" group-title="KURDISH ",KURD 7
+
+#EXTINF:0 CUID="8634" tvg-name="KURDMAX SHOW" tvg-logo="" group-title="KURDISH ",KURDMAX SHOW
+
+#EXTINF:0 CUID="8635" tvg-name="KURDMAX" tvg-logo="" group-title="KURDISH ",KURDMAX
+
+#EXTINF:0 CUID="8636" tvg-name="KIDCO" tvg-logo="" group-title="KURDISH ",KIDCO
+
+#EXTINF:0 CUID="8637" tvg-name="MED MUSIC" tvg-logo="" group-title="KURDISH ",MED MUSIC
+
+#EXTINF:0 CUID="8638" tvg-name="NIROJ QURAN" tvg-logo="" group-title="KURDISH ",NIROJ QURAN
+
+#EXTINF:0 CUID="8639" tvg-name="NIROJ HD" tvg-logo="" group-title="KURDISH ",NIROJ HD
+
+#EXTINF:0 CUID="8640" tvg-name="NR1KURD" tvg-logo="" group-title="KURDISH ",NR1KURD
+
+#EXTINF:0 CUID="8641" tvg-name="NEXT TV" tvg-logo="" group-title="KURDISH ",NEXT TV
+
+#EXTINF:0 CUID="8642" tvg-name="RAVAND TV" tvg-logo="" group-title="KURDISH ",RAVAND TV
+
+#EXTINF:0 CUID="8643" tvg-name="RONAHI" tvg-logo="" group-title="KURDISH ",RONAHI
+
+#EXTINF:0 CUID="8644" tvg-name="ROJAVA" tvg-logo="" group-title="KURDISH ",ROJAVA
+
+#EXTINF:0 CUID="8645" tvg-name="STERK" tvg-logo="" group-title="KURDISH ",STERK
+
+#EXTINF:0 CUID="8646" tvg-name="TRT KURDI" tvg-logo="" group-title="KURDISH ",TRT KURDI
+
+#EXTINF:0 CUID="8647" tvg-name="ZEVER" tvg-logo="" group-title="KURDISH ",ZEVER
+
+#EXTINF:0 CUID="8648" tvg-name="ZAROK TV" tvg-logo="" group-title="KURDISH ",ZAROK TV
+
+#EXTINF:0 CUID="8649" tvg-name="BahraHD" tvg-logo="" group-title="KURDISH ",BahraHD
+
+#EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="" group-title="KURDISH ",PESHMARGA TV
+
+#EXTINF:0 CUID="8651" tvg-name="DUHOK-TV" tvg-logo="" group-title="KURDISH ",DUHOK-TV
+
+#EXTINF:0 CUID="8652" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="" group-title="Kurdish  سپۆرت  ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
+
+#EXTINF:0 CUID="10754" tvg-name="BEIN SPORTS" tvg-logo="" group-title="Kurdish  سپۆرت  ",BEIN SPORTS
+
+#EXTINF:0 CUID="10754" tvg-name="  FALCON EYE 1" tvg-logo="" group-title="Kurdish  سپۆرت  ",BEIN SPORTS
+
+#EXTINF:0 CUID="10751" tvg-name="NRT Sport HD" tvg-logo="" group-title="Kurdish  سپۆرت  ",NRT Sport HD
+
+#EXTINF:0 CUID="23136" tvg-name="NRT SPORT SD" tvg-logo="" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
+
+#EXTINF:0 CUID="10752" tvg-name="AVA Sport 4k" tvg-logo="" group-title="Kurdish  سپۆرت  ",AVA Sport 4k
+
+#EXTINF:0 CUID="23137" tvg-name="AVA SPORT HD" tvg-logo="" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
+
+#EXTINF:0 CUID="46921" tvg-name="beIN  UHD" tvg-logo="" group-title="Kurdish  سپۆرت  ",beIN  UHD
+
+#EXTINF:0 CUID="58806" tvg-name="DUHOK SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",DUHOK SPORT
+
+#EXTINF:0 CUID="58807" tvg-name="DELAL SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",DELAL SPORT
+
+#EXTINF:0 CUID="58808" tvg-name="DASINYA SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",DASINYA SPORT
+
+#EXTINF:0 CUID="58809" tvg-name="ZAXO SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",ZAXO SPORT
+
+#EXTINF:0 CUID="58810" tvg-name="NRT SPORT FHD" tvg-logo="" group-title="Kurdish  سپۆرت  ",NRT SPORT FHD
+
+#EXTINF:0 CUID="58811" tvg-name="NRT SPORT SD" tvg-logo="" group-title="Kurdish  سپۆرت  ",NRT SPORT SD
+
+#EXTINF:0 CUID="58812" tvg-name="AVA SPORT HD" tvg-logo="" group-title="Kurdish  سپۆرت  ",AVA SPORT HD
+
+#EXTINF:0 CUID="58813" tvg-name="LD SPORT CHECK" tvg-logo="" group-title="Kurdish  سپۆرت  ",LD SPORT CHECK
+
+#EXTINF:0 CUID="58814" tvg-name="ASTERA SPORT1" tvg-logo="" group-title="Kurdish  سپۆرت  ",ASTERA SPORT1
+
+#EXTINF:0 CUID="58815" tvg-name="NEWLINE SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",NEWLINE SPORT
+
+#EXTINF:0 CUID="58816" tvg-name="ARO SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",ARO SPORT
+
+#EXTINF:0 CUID="58817" tvg-name="AVA SPORT SD" tvg-logo="" group-title="Kurdish  سپۆرت  ",AVA SPORT SD
+
+#EXTINF:0 CUID="58818" tvg-name="LD SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",LD SPORT
+
+#EXTINF:0 CUID="58819" tvg-name="NRT SPORT HD" tvg-logo="" group-title="Kurdish  سپۆرت  ",NRT SPORT HD
+
+#EXTINF:0 CUID="58820" tvg-name="MMN SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",MMN SPORT
+
+#EXTINF:0 CUID="58821" tvg-name="QALAM SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",QALAM SPORT
+
+#EXTINF:0 CUID="58822" tvg-name="DASANYA SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",DASANYA SPORT
+
+#EXTINF:0 CUID="58823" tvg-name="MTV SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",MTV SPORT
+
+#EXTINF:0 CUID="58824" tvg-name="SEE SPORT1" tvg-logo="" group-title="Kurdish  سپۆرت  ",SEE SPORT1
+
+#EXTINF:0 CUID="58825" tvg-name="SEE SPORT2" tvg-logo="" group-title="Kurdish  سپۆرت  ",SEE SPORT2
+
+#EXTINF:0 CUID="58826" tvg-name="SIMA SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",SIMA SPORT
+
+#EXTINF:0 CUID="58827" tvg-name="4Sport" tvg-logo="" group-title="Kurdish  سپۆرت  ",4Sport
+
+#EXTINF:0 CUID="58828" tvg-name="NUBER SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",NUBER SPORT
+
+#EXTINF:0 CUID="58829" tvg-name="ALL SPORT" tvg-logo="" group-title="Kurdish  سپۆرت  ",ALL SPORT
+
+#EXTINF:0 CUID="58830" tvg-name="SEE SPORT3" group-title="Kurdish  سپۆرت  ",SEE SPORT3
+
+#EXTINF:0 CUID="58870" tvg-name="ALWAN F1 4K" tvg-logo="" group-title="ALWAN  SPORT 4k",ALWAN F1 4K
+
+#EXTINF:0 CUID="58871" tvg-name="ALWAN WWE 4K" tvg-logo="" group-title="ALWAN  SPORT 4k",ALWAN WWE 4K
