@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="AR| ALWAN SPORT 1 4K" group-title="Sport",AR| ALWAN SPORT 1 4K
 http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/237014
 #EXTINF:-1 tvg-name="AR| ALWAN SPORT 1 HD" group-title="Sport",AR| ALWAN SPORT 1 HD
@@ -48,7 +47,6 @@ http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/153591
 http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/7757
 #EXTINF:-1 tvg-name="beIN SPORTS NEWS HD" group-title="Sport",beIN SPORTS NEWS HD
 http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/102546
-
 #EXTINF:-1 tvg-logo="https://kurdtvs.net/uploads/files/22-04-2019-c52af58b-avatv.png" tvg-name="Ava Media TV" group-title="Kurdish",Ava Media TV
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://kurdtvs.net/uploads/amozhgary.png" tvg-name="Amozhgary TV" group-title="Kurdish",Amozhgary TV
