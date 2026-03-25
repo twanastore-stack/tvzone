@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kurdish",Ava Media TV
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Kurdish",Amozhgary TV
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1 group-title="Kurdish",Gali Kurdistan TV
+https://live.host247.net/gk/gksat/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",Khak TV
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",Kirkuk Satellite TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Kurdish",Kurdistan 24 TV
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 group-title="Kurdish",Kurdmax Sorani
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",Kurdsat Tv
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 group-title="Kurdish",Makkah Live
+http://m.live.net.sa:1935/live/quran/chunklist_w739544379.m3u8
+#EXTINF:-1 group-title="Kurdish",Mihrab TV
+http://baskhd.ddns.net:40/live/MihrabTV/chunklist_w1291413404.m3u8
+#EXTINF:-1 group-title="Kurdish",Payam tv
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",Sada TV
+https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",Zarok TV Kurmanci
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 group-title="Sport",beIN SPORTS 1 HD
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/153582
+#EXTINF:-1 group-title="Sport",beIN SPORTS 2 HD
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/153583
+#EXTINF:-1 group-title="Sport",beIN SPORTS 3 HD
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/153584
+#EXTINF:-1 group-title="Sport",beIN SPORTS 4 HD
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/7754
+#EXTINF:-1 group-title="Sport",beIN SPORTS 5 HD
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/153587
+#EXTINF:-1 group-title="Sport",beIN SPORTS 6 HD
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/153588
+#EXTINF:-1 group-title="Sport",beIN SPORTS 7 HD
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/153589
+#EXTINF:-1 group-title="Sport",beIN SPORTS 8 HD
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/153590
+#EXTINF:-1 group-title="Sport",beIN SPORTS 9 HD
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/153591
+#EXTINF:-1 group-title="Sport",beIN SPORTS NEWS HD
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/102546
+#EXTINF:-1 group-title="Sport",ALWAN SPORT 1 4K
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/237014
+#EXTINF:-1 group-title="Sport",ALWAN SPORT 2 4K
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/237017
+#EXTINF:-1 group-title="Sport",ALWAN SPORT 3 4K
+http://psk-sdk.ddno.us:8080/oumourougrouza2024/093m2z9x/237020
